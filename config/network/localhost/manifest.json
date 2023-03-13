@@ -1,14 +1,14 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverAddress": "127.0.0.1",
+    "serverName": "SECUREHOST",
+    "iconName": "f85e0766901907.5b2732dbe2eaf.png",
+    "terminalID": "SECURE",
     "defaultUser": {
         "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "password": "1234",
+        "userName": "test1"
     },
-    "randomSeed": true,
+    "randomSeed": false,
     "initialHistory": {
         "user": [
             "login admin@admin"
