@@ -4,8 +4,8 @@
     "iconName": "tech.jpg",
     "terminalID": "11.152.9.6",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
+        "userId": "test",
+        "password": "1",
         "userName": "privateConnection"
     }
 }
