@@ -2,10 +2,10 @@
     "serverAddress": "11.152.9.6",
     "serverName": "Data Finder S.A.",
     "iconName": "tech.jpg",
-    "terminalID": "11.152.9.6",
+    "terminalID": "test",
     "defaultUser": {
-        "userId": "test",
-        "password": "1",
+        "userId": "user",
+        "password": "",
         "userName": "privateConnection"
     }
 }
